@@ -21,6 +21,8 @@ The server will recieve every PERIOD(setted in the esp code-DEFAULT=4 minutes) a
 The database will be queried by the app.py script that handle the telegram bot requests from the user.
 </p>
 <br />
+<img src="system_scheme.jpg" alt="scheme">
+<br />
 <h2>What can the user ask?</h2>
 <ul>The user can ask for:
   <li>last temperature registeres</li>
@@ -31,3 +33,6 @@ The database will be queried by the app.py script that handle the telegram bot r
   <li>a plot of the temperatures from today and the day before only if there are</li>
 </ul>
  <p></p>
+
+
+<p><i>NOTE:</i> the esp8266 uses DS18B20 temperature sensor</p>
