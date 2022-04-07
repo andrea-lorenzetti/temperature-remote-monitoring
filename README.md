@@ -21,7 +21,7 @@ The server will recieve every PERIOD(setted in the esp code-DEFAULT=4 minutes) a
 The database will be queried by the app.py script that handle the telegram bot requests from the user.
 </p>
 <br />
-<img src="system_scheme.jpg" alt="scheme">
+<img src="https://github.com/andrea-lorenzetti/temperature-remote-monitoring/blob/main/system_scheme.jpeg" alt="scheme">
 <br />
 <h2>What can the user ask?</h2>
 <ul>The user can ask for:
