@@ -49,6 +49,8 @@ while True:
         try:
             print("waiting for msg for next 6 min")
             msg = c.recv(1024)
+            if len(msg) == 0:
+                break
             print("received:" + msg.decode())
             try:
                 temp_str = msg.decode()
