@@ -6,7 +6,7 @@ get temperature updates and alerts
 
 <p>
 <ul>The components of this projecct are:
-  <li> esp8266; </li>
+  <li> esp8266;</li>
   <li> smartphone;</li>
   <li> server; </li>
   <li> database; </li>
