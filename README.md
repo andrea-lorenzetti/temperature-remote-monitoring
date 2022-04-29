@@ -2,7 +2,7 @@
 get temperature updates and alerts
 
 <h2>Description:</h2>
-<p>This system permits to have an almost live updates of the temperature in a remote place thanks to the internet connection provided by a hotspot of a smartphone with a sim card.<br /> This project become vewy usefull for areas that are not covered with WiFi connection.</p>
+<p>This system permits to have an almost live updates of the temperature in a remote place thanks to the internet connection provided by a hotspot of a smartphone with a sim card. <br /> This project become vewy usefull for areas that are not covered with WiFi connection.</p>
 
 <p>
 <ul>The components of this projecct are:
