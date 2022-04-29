@@ -35,4 +35,4 @@ The database will be queried by the app.py script that handle the telegram bot r
  <p></p>
 
 
-<p><i>NOTE:</i> the esp8266 uses DS18B20 temperature sensor</p>
+<p><i>NOTE:</i> the esp8266 uses DS18B20 temperature sensor.</p>
